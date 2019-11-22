@@ -27,3 +27,8 @@
 
 其它文章以此类推
 
+
+
+### License
+
+MIT License GoodCoder-Notes，其它内容……
