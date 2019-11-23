@@ -19,7 +19,7 @@
 
 |      通用能力      |             基础技能             |     框架设计剖析      |   设计与中间件   |    分布式设计     | 后记 |
 | :----------------: | :------------------------------: | :-------------------: | :--------------: | :---------------: | ---- |
-| 思维&nbsp;技巧 | Go&nbsp;算法&nbsp;MySQ&nbsp;linux | Gin&nbsp;开发流程&nbsp;服务器 | 模块设计&nbsp;中间件 | 微服务&nbsp;容器/运维 | Call |
+| 思维&emsp;技巧 | Go&emsp;算法&emsp;MySQ&emsp;linux | Gin&emsp;开发流程&emsp;服务器 | 模块设计&emsp;中间件 | 微服务&emsp;容器/运维 | Call |
 
 <div align=center>
 <img src="./docs/picture/readme_logo/logo.jpg" width="260" height="260"/>
