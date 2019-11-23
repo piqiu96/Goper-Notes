@@ -11,7 +11,7 @@
 |        基础技术        |     框架原理剖析      |     模块与中间件     |     系统架构      |
 | Go、算法、MySQL、linux | Gin、项目开发、服务器 | 模块设计开发、中间件 | 微服务、容器/运维 |
 
-![logo](./docs/picture/readme_logo/logo.jpg)
+<div align=center>![logo](./docs/picture/readme_logo/logo.jpg)
 
 
 
