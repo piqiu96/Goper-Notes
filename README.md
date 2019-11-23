@@ -1,8 +1,15 @@
 &nbsp;
 
+<style type="text/css">
+a:link,a:visited{
+color:black;
+text-decoration:none; 
+}
+</style>
+
 |      通用能力      |             基础技能             |     框架设计剖析      |   设计与中间件   |    分布式设计     | 后记 |
 | :----------------: | :------------------------------: | :-------------------: | :--------------: | :---------------: | ---- |
-| &nbsp;思维&ensp;技巧&nbsp; | Go&ensp;算法&ensp;MySQL&ensp;linux | Gin&ensp;规范与流程&ensp;服务器 | 模块设计&ensp;中间件 | 微服务&ensp;容器/运维 | &emsp;Call&emsp;  |
+| &nbsp;<a href="">思维</a>&ensp;技巧&nbsp; | Go&ensp;算法&ensp;MySQL&ensp;linux | Gin&ensp;规范与流程&ensp;服务器 | 模块设计&ensp;中间件 | 微服务&ensp;容器/运维 | &emsp;Call&emsp;  |
 
 <div align=center>
 <img src="./docs/picture/readme_logo/logo.jpg" width="260" height="260"/>
