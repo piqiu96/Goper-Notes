@@ -12,8 +12,8 @@
 | Go、算法、MySQL、linux | Gin、项目开发、服务器 | 模块设计开发、中间件 | 微服务、容器/运维 |
 
  <div align=center> ![logo](./docs/picture/readme_logo/logo.jpg) </div>
-<div style="align:center;">
-<img src="./docs/picture/readme_logo/logo.jpg" width="100" height="100"/>
+<div align=center>
+<img src="./docs/picture/readme_logo/logo.jpg" width="200" height="200"/>
 </div>
 
 # 第一阶段 基础技术
