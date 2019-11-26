@@ -5,7 +5,7 @@
 | &nbsp;[思维](#思维)&ensp;[技巧](#技巧)&nbsp; | [Go](#Go)&ensp;[算法](#算法)&ensp;[MySQL](#MySQL)&ensp;[linux](#linux) | [Gin](#Gin)&ensp;[规范与流程](#规范与流程)&ensp;[服务器](#服务器) | [模块设计](#模块设计)&ensp;[中间件](#中间件) | [微服务](#微服务)&ensp;[容器/运维](#容器运维) | &emsp;[Call](#联系我)&emsp;  |
 
 <div align=center>
-<img src="./docs/picture/readme_pic/logo.jpg" width="260" height="260"/>
+<img src="./media/pictures/readme/logo.jpg" width="260" height="260"/>
 </div>
 
 
@@ -108,7 +108,7 @@
 ## Call
 
 <div align=center>
-<img src="./docs/picture/readme_pic/微信公众号.jpg" width="360" height="360"/>
+<img src="./media/pictures/readme/微信公众号.jpg" width="360" height="360"/>
 </div>
 
 
