@@ -1,1 +1,2 @@
+*.sh linguist-language=go
 *.md linguist-language=go
