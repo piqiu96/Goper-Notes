@@ -155,7 +155,7 @@ a := make([]int, 2, 10)
 一个数组`a := [8]int{0, 1, 2, 3, 4, 5, 6, 7}`，切片`s1 := a[:5]`，底层示意图如下：
 
 <div align=center>
-<img src="../../../media/pictures/go/slice_01.png" height="500"/>
+<img src="../../../media/pictures/go/slice_01.png" height="350"/>
 </div>
 
 #### 切片的遍历
