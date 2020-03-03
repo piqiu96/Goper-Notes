@@ -31,7 +31,7 @@
 - [Go 文件管理](/docs/notes/go/Go%20-%20Go%20文件管理.md)
 - [Go 网络编程](/docs/notes/go/Go%20-%20Go%20网络编程.md)
 - [Go 并发编程](/docs/notes/go/Go%20-%20Go%20并发编程.md)
-- [Go 内存管理](#)
+- [Go 内存管理](/docs/notes/go/Go%20-%20Go%20内存管理.md)
 
 ## 算法
 
