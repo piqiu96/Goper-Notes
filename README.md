@@ -100,14 +100,6 @@
 - [Docker](#)
 - [k8s](#)
 
-&nbsp;
-#### 第六阶段 Call
-## Call
-
-<div align=center>
-<img src="./media/pictures/readme/微信公众号.jpg" width="360" height="360"/>
-</div>
-
 
 &nbsp;
 ## License
